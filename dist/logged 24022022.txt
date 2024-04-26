@@ -1,0 +1,9 @@
+
+ Domain Name: Achat / Comptabilité / Gestion
+ Jobs Count: 250
+ Domain Name: Arts / Artisanat d’art
+ Jobs Count: 6
+ Domain Name: Banque / Assurance
+ Jobs Count: 457
+ Domain Name: Bâtiment / Travaux Publics
+ Jobs Count: 810

@@ -1,0 +1,165 @@
+Exception in Main Page: Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='advanced-search-container__element ng-tns-c143-3 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4 | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='advanced-search-container__element ng-tns-c143-3 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4 | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select']' is not a valid XPath expression.
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010E69A3+2582947]
+	Ordinal0 [0x0107A6D1+2139857]
+	Ordinal0 [0x00F73A98+1063576]
+	Ordinal0 [0x00F762B7+1073847]
+	Ordinal0 [0x00F7617E+1073534]
+	Ordinal0 [0x00F763F0+1074160]
+	Ordinal0 [0x00F9FCB2+1244338]
+	Ordinal0 [0x00FA013B+1245499]
+	Ordinal0 [0x00FC9F8C+1417100]
+	Ordinal0 [0x00FB8594+1344916]
+	Ordinal0 [0x00FC834A+1409866]
+	Ordinal0 [0x00FB8366+1344358]
+	Ordinal0 [0x00F95176+1200502]
+	Ordinal0 [0x00F96066+1204326]
+	GetHandleVerifier [0x0128BE02+1675858]
+	GetHandleVerifier [0x0134036C+2414524]
+	GetHandleVerifier [0x0117BB01+560977]
+	GetHandleVerifier [0x0117A8D3+556323]
+	Ordinal0 [0x0108020E+2163214]
+	Ordinal0 [0x01085078+2183288]
+	Ordinal0 [0x010851C0+2183616]
+	Ordinal0 [0x0108EE1C+2223644]
+	BaseThreadInitThunk [0x75EAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77897A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77897A6E+238]
+
+Exception in Updating Jobs: [Errno 2] No such file or directory: 'DetailPagesCount.txt'
+Exception in Main Page: Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='advanced-search-container__element ng-tns-c143-3 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4 | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='advanced-search-container__element ng-tns-c143-3 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4 | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select' is not a valid XPath expression.
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007C69A3+2582947]
+	Ordinal0 [0x0075A6D1+2139857]
+	Ordinal0 [0x00653A98+1063576]
+	Ordinal0 [0x006562B7+1073847]
+	Ordinal0 [0x0065617E+1073534]
+	Ordinal0 [0x006563F0+1074160]
+	Ordinal0 [0x0067FCB2+1244338]
+	Ordinal0 [0x0068013B+1245499]
+	Ordinal0 [0x006A9F8C+1417100]
+	Ordinal0 [0x00698594+1344916]
+	Ordinal0 [0x006A834A+1409866]
+	Ordinal0 [0x00698366+1344358]
+	Ordinal0 [0x00675176+1200502]
+	Ordinal0 [0x00676066+1204326]
+	GetHandleVerifier [0x0096BE02+1675858]
+	GetHandleVerifier [0x00A2036C+2414524]
+	GetHandleVerifier [0x0085BB01+560977]
+	GetHandleVerifier [0x0085A8D3+556323]
+	Ordinal0 [0x0076020E+2163214]
+	Ordinal0 [0x00765078+2183288]
+	Ordinal0 [0x007651C0+2183616]
+	Ordinal0 [0x0076EE1C+2223644]
+	BaseThreadInitThunk [0x75EAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77897A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77897A6E+238]
+
+Exception in Main Page: Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='advanced-search-container__element ng-tns-c143-3 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4] | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='advanced-search-container__element ng-tns-c143-3 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4] | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select' is not a valid XPath expression.
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C569A3+2582947]
+	Ordinal0 [0x00BEA6D1+2139857]
+	Ordinal0 [0x00AE3A98+1063576]
+	Ordinal0 [0x00AE62B7+1073847]
+	Ordinal0 [0x00AE617E+1073534]
+	Ordinal0 [0x00AE63F0+1074160]
+	Ordinal0 [0x00B0FCB2+1244338]
+	Ordinal0 [0x00B1013B+1245499]
+	Ordinal0 [0x00B39F8C+1417100]
+	Ordinal0 [0x00B28594+1344916]
+	Ordinal0 [0x00B3834A+1409866]
+	Ordinal0 [0x00B28366+1344358]
+	Ordinal0 [0x00B05176+1200502]
+	Ordinal0 [0x00B06066+1204326]
+	GetHandleVerifier [0x00DFBE02+1675858]
+	GetHandleVerifier [0x00EB036C+2414524]
+	GetHandleVerifier [0x00CEBB01+560977]
+	GetHandleVerifier [0x00CEA8D3+556323]
+	Ordinal0 [0x00BF020E+2163214]
+	Ordinal0 [0x00BF5078+2183288]
+	Ordinal0 [0x00BF51C0+2183616]
+	Ordinal0 [0x00BFEE1C+2223644]
+	BaseThreadInitThunk [0x75EAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77897A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77897A6E+238]
+
+Exception in Main Page: Message: invalid selector: Unable to locate an element with the xpath expression //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4] | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4] | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select' is not a valid XPath expression.
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x003E69A3+2582947]
+	Ordinal0 [0x0037A6D1+2139857]
+	Ordinal0 [0x00273A98+1063576]
+	Ordinal0 [0x002762B7+1073847]
+	Ordinal0 [0x0027617E+1073534]
+	Ordinal0 [0x002763F0+1074160]
+	Ordinal0 [0x0029FCB2+1244338]
+	Ordinal0 [0x002A013B+1245499]
+	Ordinal0 [0x002C9F8C+1417100]
+	Ordinal0 [0x002B8594+1344916]
+	Ordinal0 [0x002C834A+1409866]
+	Ordinal0 [0x002B8366+1344358]
+	Ordinal0 [0x00295176+1200502]
+	Ordinal0 [0x00296066+1204326]
+	GetHandleVerifier [0x0058BE02+1675858]
+	GetHandleVerifier [0x0064036C+2414524]
+	GetHandleVerifier [0x0047BB01+560977]
+	GetHandleVerifier [0x0047A8D3+556323]
+	Ordinal0 [0x0038020E+2163214]
+	Ordinal0 [0x00385078+2183288]
+	Ordinal0 [0x003851C0+2183616]
+	Ordinal0 [0x0038EE1C+2223644]
+	BaseThreadInitThunk [0x75EAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77897A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77897A6E+238]
+
+Exception in Main Page: Message: invalid selector: Unable to locate an element with the xpath expression //app-dropdown/mat-form-field/div/div/div/mat-select[contains(@class,'mat-select')] | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4] | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//app-dropdown/mat-form-field/div/div/div/mat-select[contains(@class,'mat-select')] | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select | //div[@class='advanced-search-container__element ng-tns-c153-4 ng-star-inserted']/app-dropdown/mat-form-field/div/div/div/mat-select | //*[@id='mat-select-4] | //div[contains(@class,'advanced-search-container__element')]/app-dropdown/mat-form-field/div/div/div/mat-select' is not a valid XPath expression.
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F569A3+2582947]
+	Ordinal0 [0x00EEA6D1+2139857]
+	Ordinal0 [0x00DE3A98+1063576]
+	Ordinal0 [0x00DE62B7+1073847]
+	Ordinal0 [0x00DE617E+1073534]
+	Ordinal0 [0x00DE63F0+1074160]
+	Ordinal0 [0x00E0FCB2+1244338]
+	Ordinal0 [0x00E1013B+1245499]
+	Ordinal0 [0x00E39F8C+1417100]
+	Ordinal0 [0x00E28594+1344916]
+	Ordinal0 [0x00E3834A+1409866]
+	Ordinal0 [0x00E28366+1344358]
+	Ordinal0 [0x00E05176+1200502]
+	Ordinal0 [0x00E06066+1204326]
+	GetHandleVerifier [0x010FBE02+1675858]
+	GetHandleVerifier [0x011B036C+2414524]
+	GetHandleVerifier [0x00FEBB01+560977]
+	GetHandleVerifier [0x00FEA8D3+556323]
+	Ordinal0 [0x00EF020E+2163214]
+	Ordinal0 [0x00EF5078+2183288]
+	Ordinal0 [0x00EF51C0+2183616]
+	Ordinal0 [0x00EFEE1C+2223644]
+	BaseThreadInitThunk [0x75EAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77897A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77897A6E+238]
+
+Exception in Updating Jobs: index 1 is out of bounds for axis 0 with size 1
+Exception in Updating Jobs: index 1 is out of bounds for axis 0 with size 1
+Exception in Updating Jobs: list index out of range
+Exception in Updating Jobs: HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_98.0.4758 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002E7D7C1D7C0>: Failed to establish a new connection: [WinError 10055] An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full'))
+Exception in Updating Jobs: HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_98.0.4758 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001FC30E0D7C0>: Failed to establish a new connection: [WinError 10055] An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full'))
+Exception in Updating Jobs: list index out of range
+Exception in Updating Jobs: list index out of range
+Exception in Updating Jobs: Message: unknown error: DevToolsActivePort file doesn't exist
+
